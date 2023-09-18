@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="greenblue">#04B1A1</color>
+    <color name="golbehi">#DC87A9</color>
+    <color name="sorati">#ED3F7A</color>
+    <color name="narengi">#F18968</color>
+</resources>
